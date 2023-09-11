@@ -7,7 +7,7 @@
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 100%;
   width: 24px;
   height: 24px;
@@ -17,7 +17,7 @@
   z-index: 2; }
 
 .timeline-body {
-  border-left: 2px solid #E6E9ED; }
+  border-left: 2px solid #0faade; }
 
 .timeline-card-primary:before {
   border-color: var(--bs-primary); }
@@ -72,7 +72,7 @@ html, body {
 
 .progress-bar {
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 20px;
   letter-spacing: 1px; }
 
 .text-small {
@@ -112,7 +112,7 @@ footer a:not(.nav-link) {
     opacity: 1 !important;
     transform: translate(0) scale(1) !important; }
   body.bg-light {
-    background-color: #fff !important; }
+    background-color: #000000 !important; }
   .container {
     width: auto;
     max-width: 100%;
